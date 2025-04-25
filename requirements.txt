@@ -1,0 +1,19 @@
+# Machine Learning
+scikit-learn==1.4.1.post1
+xgboost==2.0.3
+joblib==1.4.0
+pandas==2.2.1
+numpy==1.26.4
+
+# Interface web Hugging Face
+gradio==4.16.0
+
+# Visualisation (pour local/dev/dashboard)
+matplotlib==3.8.3
+
+# Analyse automatique
+optuna==3.5.0
+tqdm==4.66.2
+
+# Pour lire les fichiers Excel
+openpyxl==3.1.2

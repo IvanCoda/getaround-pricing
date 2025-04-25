@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ivan/Desktop/Certification%20Jedha/CDSD%20Certifications/Bloc%205%20-%20Deployment/mlruns/0/4156dc1c28674a58866813d98be163d3/artifacts
+end_time: 1745584567632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4156dc1c28674a58866813d98be163d3
+run_name: RandomForest
+run_uuid: 4156dc1c28674a58866813d98be163d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745584565876
+status: 3
+tags: []
+user_id: ivan

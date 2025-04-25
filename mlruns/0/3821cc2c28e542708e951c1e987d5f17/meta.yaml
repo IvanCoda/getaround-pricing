@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ivan/Desktop/Certification%20Jedha/CDSD%20Certifications/Bloc%205%20-%20Deployment/mlruns/0/3821cc2c28e542708e951c1e987d5f17/artifacts
+deleted_time: 1745505199430
+end_time: 1745504749502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3821cc2c28e542708e951c1e987d5f17
+run_name: XGBoost - Optuna Final
+run_uuid: 3821cc2c28e542708e951c1e987d5f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745504747044
+status: 3
+tags: []
+user_id: ivan
