@@ -127,11 +127,6 @@ L'application Gradio (`src/app.py`) peut être déployée gratuitement sur [Hugg
    - `requirements.txt` à la racine
    - `README.md` (description du projet)
 
-3. Hugging Face buildera automatiquement ton app.  
-   Si tout est bien configuré, l’interface sera **100 % fonctionnelle en ligne**.
-
-📎 Exemple de Space (à personnaliser) :  
-👉 [https://huggingface.co/spaces/ton-username/getaround-pricing](https://huggingface.co/spaces/ton-username/getaround-pricing)
 
 ---
 
