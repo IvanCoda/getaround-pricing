@@ -4,7 +4,7 @@ import joblib
 
 # === Charger modèle et données ===
 model = joblib.load("model_final.joblib")
-df = pd.read_csv("get_around_pricing_project.csv").drop(columns=["Unnamed: 0"])
+df = pd.read_csv("../data/get_around_pricing_project.csv").drop(columns=["Unnamed: 0"])
 
 # Options dynamiques
 model_keys = sorted(df["model_key"].dropna().unique().tolist())
