@@ -5,7 +5,7 @@ import pandas as pd
 import joblib
 
 # Charger le modèle (pipeline complet avec préprocessing)
-model = joblib.load("model_final.joblib")
+model = joblib.load("model/model_final.joblib")
 
 # Initialisation de l'app FastAPI
 app = FastAPI(
